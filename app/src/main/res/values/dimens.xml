@@ -1,0 +1,12 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="titulos_et">15dp</dimen>
+    <dimen name="espacio_left">10dp</dimen>
+    <dimen name="tamano_width">40dp</dimen>
+    <dimen name="tamano_height">60dp</dimen>
+    <dimen name="confirmar_datos">30dp</dimen>
+    <dimen name="titulos_tv">15dp</dimen>
+    <dimen name="espacio_boton">30dp</dimen>
+</resources>
